@@ -1,7 +1,7 @@
 # Daniel Kienböck
 ☁️💻 Cloud Topic Lead 
 
-[workplace](https://a1team.workplace.com/groups/a1makerspace) / [Board](https://github.com/orgs/A1-Austria/teams/clex/projects) / [Repos](https://github.com/orgs/A1-Austria/teams/clex/repositories) / [Docs](https://github.com/A1-Austria/clex-docs)
+[workplace](https://a1team.workplace.com/groups/a1makerspace) / [Board](https://github.com/orgs/A1-Austria/teams/clex/projects) / [Repos](https://github.com/orgs/A1-Austria/teams/clex/repositories) / [Docs](https://github.com/A1-Austria/clex-docs) / [Docs (Web)](https://a1-austria.github.io/clex-docs)
 
 ---
 
